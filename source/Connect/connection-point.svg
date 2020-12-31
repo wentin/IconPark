@@ -1,9 +1,9 @@
 <svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
 <rect width="48" height="48" fill="white" fill-opacity="0.01"/>
 <path d="M6 24H42" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="18" y="4" width="12" height="12" rx="2" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<rect x="6" y="32" width="12" height="12" rx="2" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
-<rect x="30" y="32" width="12" height="12" rx="2" fill="#2F88FF" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<rect x="18" y="4" width="12" height="12" rx="2" fill="#aaa" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<rect x="6" y="32" width="12" height="12" rx="2" fill="#aaa" stroke="black" stroke-width="4" stroke-linejoin="round"/>
+<rect x="30" y="32" width="12" height="12" rx="2" fill="#aaa" stroke="black" stroke-width="4" stroke-linejoin="round"/>
 <path d="M24 24.0083L24.0083 16" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M36 32.0083L36.0083 24" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 <path d="M12 32.0083L12.0083 24" stroke="black" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
